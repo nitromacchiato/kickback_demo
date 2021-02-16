@@ -41,12 +41,10 @@ Following a methodology of building fast and breaking things. Our goal is to be 
 
 * @material-ui/core@4.11.2
 * @material-ui/lab@4.0.0-alpha.57
-* @prisma/cli@2.15.0
 * @prisma/client@2.14.0
 * @sendgrid/mail@7.4.2
 * @types/node@14.14.20
 * @types/react@17.0.0
-* and@0.0.3
 * bulma@0.9.1
 * next@10.0.4
 * next-auth@3.1.0
